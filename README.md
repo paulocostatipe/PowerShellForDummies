@@ -13,3 +13,43 @@
     <img alt="Site" src="https://img.shields.io/badge/paulocostati.com.br-Site-green">
   </a>
 </p>
+
+# PowerShell For Dummies
+## Repositorio de PowerShell para iniciantes, criado por Paulo Costa para o treinamento de PowerShell For Dummies
+
+
+# O que é o PowerShell?
+
+O PowerShell é uma ferramenta de linha de comando e linguagem de script que foi desenvolvida pela Microsoft para ajudar os administradores de sistemas a automatizar e gerenciar tarefas de sistemas operacionais Windows.
+
+## Variaveis
+
+[Variaveis](Variaveis.md)
+
+## Operadores
+
+[Operadores](Operadores.md)
+
+## Comandos
+
+[Comandos](Comandos.md)
+
+## Funções
+
+[Funções](Funcoes.md)
+
+## Loops
+
+[Loops](Loops.md)
+
+## Condicionais
+
+[Condicionais](Condicionais.md)
+
+## Modulos
+
+[Modulos](Modulos.md)
+
+## Remoting
+
+[Remoting](Remoting.md)
