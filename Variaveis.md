@@ -32,3 +32,21 @@ $ip = (Get-NetIPAddress).IPAddress
 $ip
 ```
 ## Uma vez que a variavel $ip foi criada podemos usar ela para mostrar o resultado do comando Get-NetIPAddress
+
+
+#Variaveis de ambiente
+
+## Variaveis de ambiente são variaveis que são criadas automaticamente pelo sistema operacional e podem ser usadas em qualquer script ou aplicação
+
+## Para ver todas as variaveis de ambiente basta usar o comando Get-ChildItem Env:
+
+```powershell
+Get-ChildItem Env:
+```
+## Para ver o valor de uma variavel de ambiente basta usar o comando $env:nome_da_variavel
+
+```powershell
+$env:USERNAME
+```
+
+[Documentação Oficial](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.core/about/about_variables?view=powershell-7.3)
