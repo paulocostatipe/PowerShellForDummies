@@ -24,56 +24,56 @@ O PowerShell é uma ferramenta de linha de comando e linguagem de script que foi
 
 ## Variaveis
 
-[Variaveis](Variaveis.md)
+[Variaveis](Conteudo/Variaveis.md)
 
 ## Operadores
 
-[Operadores](Operadores.md)
+[Operadores](Conteudo/%23%20Operadores%20No%20PowerShell.md)
 
 ## Comandos
 
-[Comandos](Comandos.md)
+[Comandos](Conteudo/Comandos.md)
 
 ## Funções
 
-[Funções](Funcoes.md)
+[Funções](Conteudo/Funcoes.md)
 
 ## Loops
 
-[Loops](Loops.md)
+[Loops](Conteudo/Loops.md)
 
 ## Condicionais
 
-[Condicionais](Condicionais.md)
+[Condicionais](Conteudo/Condicionais.md)
 
 ## Arrays
 
-[Arrays](Arrays.md)
+[Arrays](Conteudo/Arrays.md)
 
 ## HashTables
 
-[HashTables](HashTables.md)
+[HashTables](Conteudo/HashTables.md)
 
 ## Objetos
 
-[Objetos](Objetos.md)
+[Objetos](Conteudo/Objetos.md)
 
 ## Import 
 
-[Import](Import.md)
+[Import](Conteudo/Import.md)
 
 ## Select-String
 
-[Select-String](Select-String.md)
+[Select-String](Conteudo/Select-String.md)
 
 ## if else
 
-[if else](if-else.md)
+[if else](Conteudo/if%20else.md)
 
 ## Modulos
 
-[Modulos](Modulos.md)
+[Modulos](Conteudo/Modulos.md)
 
 ## Remoting
 
-[Remoting](Remoting.md)
+[Remoting](Conteudo/Remoting.md)
