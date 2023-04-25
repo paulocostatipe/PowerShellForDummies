@@ -15,7 +15,7 @@
 </p>
 
 # PowerShell For Dummies
-## Repositorio de PowerShell para iniciantes, criado por Paulo Costa para o treinamento de PowerShell For Dummies
+## Repositorio de PowerShell para iniciantes, criado por Paulo Costa.
 
 
 # O que é o PowerShell?
@@ -45,6 +45,30 @@ O PowerShell é uma ferramenta de linha de comando e linguagem de script que foi
 ## Condicionais
 
 [Condicionais](Condicionais.md)
+
+## Arrays
+
+[Arrays](Arrays.md)
+
+## HashTables
+
+[HashTables](HashTables.md)
+
+## Objetos
+
+[Objetos](Objetos.md)
+
+## Import 
+
+[Import](Import.md)
+
+## Select-String
+
+[Select-String](Select-String.md)
+
+## if else
+
+[if else](if-else.md)
 
 ## Modulos
 
