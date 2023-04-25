@@ -91,3 +91,5 @@ O valor de i é 2
 O valor de i é 3
 O valor de i é 4
 ```
+
+## Para saber mais sobre funções no PowerShell acesse o link: [Funções](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.core/about/about_functions?view=powershell-7.1)

@@ -110,4 +110,5 @@ O valor de i é 4
 ### Como podemos ver o bloco de código foi executado 5 vezes, pois a variavel $i foi incrementada 5 vezes.
 
 
-
+## Para mais informações sobre loops no PowerShell acesse o link abaixo: 
+[Loops no PowerShell](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.core/about/about_loops?view=powershell-7.1)

@@ -40,3 +40,4 @@ O valor de i é 5
 
 ## Esse é um exemplo e uma descrição do if e else. 
 
+## para saber mais sobre if e else no PowerShell acesse o link: [If e Else no PowerShell](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.core/about/about_if?view=powershell-7.1)

@@ -52,3 +52,7 @@ while ($i -lt $computadores.Length) {
 
 ### Parecido com o for, o comando `while` vai executar o bloco de código enquanto a variavel `$i` for menor que o tamanho do array `$computadores`
 
+### para mais informações de Loops no PowerShell veja o arquivo [Loops.md](Loops.md)
+
+## Para mais informações sobre arrays no PowerShell acesse o link abaixo: 
+[Arrays no Powershell]: # https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.core/about/about_arrays?view=powershell-7.1

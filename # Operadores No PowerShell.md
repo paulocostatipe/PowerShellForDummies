@@ -50,3 +50,7 @@ $idade = 20
 $idade -gt 18 -and $idade -lt 30
 ```
 ### O resultado será True pois a variavel $idade é maior que 18 e menor que 30
+
+
+## Para mais sobre operadores no PowerShell acesse o link abaixo:
+[Operadores](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.core/about/about_operators?view=powershell-7.1)
